@@ -44,10 +44,10 @@
 <img src="./assets/database.png" ></img>
 
 ## Demo
-Click the thumbnail below to watch the demo video for admin functionality:
+Click the thumbnail below to watch the demo video for student functionality:
 [![Admin Demo](https://img.youtube.com/vi/LrRnPB7VG6M/0.jpg)](https://youtube.com/shorts/PC10yLrf6Vs?feature=share)
 
-Click the thumbnail below to watch the demo video for student functionality:
+Click the thumbnail below to watch the demo video for admin functionality:
 [![Student Demo](https://img.youtube.com/vi/Dl81qI6fOJc/0.jpg)](https://youtube.com/shorts/mGZJKZAw9a4?feature=share)
 
 ## Installation
