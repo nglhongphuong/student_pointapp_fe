@@ -43,6 +43,11 @@
 ## Database Schema Diagram
 <img src="./assets/database.png" ></img>
 
+## Demo
+Click the thumbnail below to watch the demo video for admin functionality:
+
+[![Admin Demo](https://img.youtube.com/vi/LrRnPB7VG6M/0.jpg)](https://youtube.com/shorts/LrRnPB7VG6M?feature=share)
+
 ## Installation
 Follow these steps to install and set up the project:
 
